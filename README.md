@@ -1,6 +1,6 @@
 # Goodwill-of-Silicon-Valley-DataAnalysis
 
-
+<img src="https://github.com/anisha-04/IOS-Development/blob/main/GIF/Goodwill.jpeg" />
 
 
 This project delivers an in-depth, data-driven assessment of the financial health and performance of nonprofit Goodwill of Silicon Valley during a pivotal 2-year period.
